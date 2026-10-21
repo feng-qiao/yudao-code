@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-DAXXjFlN.js";import{Nr as t}from"./form-create-Dv_TP_4u.js";var n=e({EMPTY_MENU_LIST_ITEM_PROPERTY:()=>r,component:()=>i}),r={title:`标题`,titleColor:`#333`,subtitle:`副标题`,subtitleColor:`#bbb`},i={id:`MenuList`,name:`列表导航`,icon:`fa-solid:list`,property:{list:[t(r)],style:{bgType:`color`,bgColor:`#fff`,marginBottom:8}}};export{n,r as t};

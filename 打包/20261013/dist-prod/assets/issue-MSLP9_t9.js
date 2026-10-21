@@ -1,0 +1,1 @@
+import{t as e}from"./axios-DYCKl1pc.js";var t=t=>e.get({url:`/oa/supply-issue/page`,params:t}),n=t=>e.put({url:`/oa/supply-issue/issue`,data:t}),r=(t,n,r)=>e.put({url:`/oa/supply-issue/return`,data:{id:t,quantity:n,returnRemark:r}});export{n,r,t};

@@ -1,0 +1,1 @@
+import{Go as e,Na as t,ca as n,ma as r,wo as i,ya as a}from"./form-create-Dv_TP_4u.js";import{t as o}from"./_plugin-vue_export-helper-BDNMzG2s.js";a(),i();var s={class:`card-title`},c=o(r({__name:`CardTitle`,props:{title:{type:String,required:!0}},setup(i){return r({name:`CardTitle`}),(r,a)=>(t(),n(`span`,s,e(i.title),1))}}),[[`__scopeId`,`data-v-307d15a9`]]);export{c as t};

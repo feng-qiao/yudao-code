@@ -1,0 +1,1 @@
+import{t as e}from"./axios-DYCKl1pc.js";var t=t=>e.get({url:`/oa/seal/page`,params:t}),n=t=>e.get({url:`/oa/seal/get`,params:{id:t}}),r=t=>e.post({url:`/oa/seal/create`,data:t}),i=t=>e.put({url:`/oa/seal/update`,data:t}),a=t=>e.delete({url:`/oa/seal/delete`,params:{id:t}});export{i as a,t as i,a as n,n as r,r as t};

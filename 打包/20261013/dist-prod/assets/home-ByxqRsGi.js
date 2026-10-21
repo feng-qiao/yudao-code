@@ -1,0 +1,1 @@
+import{t as e}from"./axios-DYCKl1pc.js";var t=async()=>await e.get({url:`/hrm/home/hr-statistics-summary`}),n=async t=>await e.get({url:`/hrm/home/hr-calendar`,params:t}),r=async()=>await e.get({url:`/hrm/home/team-statistics-summary`}),i=async t=>await e.get({url:`/hrm/home/team-calendar`,params:t});export{r as i,t as n,i as r,n as t};

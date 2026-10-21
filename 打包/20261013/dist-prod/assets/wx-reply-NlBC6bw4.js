@@ -1,0 +1,1 @@
+import"./TabNews-BNjMepur.js";import{t as e}from"./main-C2aoNSs-.js";var t=e;export{t};

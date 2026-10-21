@@ -1,0 +1,1 @@
+var e=`/assets/logo-FRkgWGbJ.png`;export{e as t};

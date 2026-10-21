@@ -1,0 +1,1 @@
+var e=`/assets/logo-hd-CD6vxdPX.png`;export{e as t};

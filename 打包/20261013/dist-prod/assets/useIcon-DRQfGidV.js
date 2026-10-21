@@ -1,0 +1,1 @@
+import{_a as e,ya as t}from"./form-create-Dv_TP_4u.js";import{t as n}from"./Icon-DouZjIwV.js";import"./index-DLTnjdAq.js";t();var r=t=>e(n,t);export{r as t};

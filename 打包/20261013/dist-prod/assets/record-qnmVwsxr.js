@@ -1,0 +1,1 @@
+import{t as e}from"./axios-DYCKl1pc.js";var t=async t=>await e.get({url:`/member/point/record/page`,params:t});export{t};

@@ -1,0 +1,1 @@
+var e={CHAT:0,EMBEDDING:1},t={HTTP:`http`,STDIO:`stdio`},n={DIRECTORY:0,FILE:1},r={USER:`user`,ASSISTANT:`assistant`},i={GENERATING:0,SUCCESS:1,FAILED:2},a={STREAM:`stream`,THINKING:`thinking`,MESSAGE:`message`,PING:`ping`,DONE:`done`,ERROR:`error`},o={CHUNK_SIZE:500,CHUNK_OVERLAP:50,TOP_K:5};export{i as a,r as i,t as n,a as o,e as r,n as s,o as t};

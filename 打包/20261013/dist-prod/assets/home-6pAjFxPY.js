@@ -1,0 +1,1 @@
+import{t as e}from"./axios-DYCKl1pc.js";var t={getSummary:async()=>await e.get({url:`/ai1/home/summary`}),getMessageSummaryByDate:async t=>await e.get({url:`/ai1/home/message-summary-by-date`,params:{days:t}}),getMessageSummaryByAgent:async t=>await e.get({url:`/ai1/home/message-summary-by-agent`,params:{days:t}})};export{t};

@@ -1,0 +1,1 @@
+import{t as e}from"./axios-DYCKl1pc.js";var t=async()=>await e.get({url:`/trade/config/get`}),n=async t=>await e.put({url:`/trade/config/save`,data:t});export{n,t};

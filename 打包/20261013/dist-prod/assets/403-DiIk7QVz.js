@@ -1,0 +1,1 @@
+import{Na as e,Qa as t,ma as n,mo as r,oa as i,ya as a}from"./form-create-Dv_TP_4u.js";import{_ as o}from"./useApi-DtucMc-S-DcODawVx.js";import{t as s}from"./Error-Cn_XGpN6.js";a(),t();var c=n({name:`Error403`,__name:`403`,setup(t){let{push:n}=o();return(t,a)=>{let o=s;return e(),i(o,{type:`403`,onErrorClick:a[0]||=e=>r(n)(`/`)})}}});export{c as default};

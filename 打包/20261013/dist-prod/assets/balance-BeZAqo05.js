@@ -1,0 +1,1 @@
+import{t as e}from"./axios-DYCKl1pc.js";var t=async t=>await e.get({url:`/pay/wallet/get`,params:t}),n=async t=>await e.get({url:`/pay/wallet/page`,params:t}),r=async t=>await e.put({url:`/pay/wallet/update-balance`,data:t});export{n,r,t};

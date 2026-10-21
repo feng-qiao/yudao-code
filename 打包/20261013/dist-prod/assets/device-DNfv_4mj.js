@@ -1,0 +1,1 @@
+var e=`/assets/device-DiAwL3Zy.png`;export{e as t};

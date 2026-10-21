@@ -1,0 +1,1 @@
+import{fi as e,ii as t,oi as n,ti as r}from"./form-create-Dv_TP_4u.js";function i(i,a,o){if(!e(o))return!1;var s=typeof a;return(s==`number`?r(o)&&n(a,o.length):s==`string`&&a in o)?t(o[a],i):!1}export{i as t};

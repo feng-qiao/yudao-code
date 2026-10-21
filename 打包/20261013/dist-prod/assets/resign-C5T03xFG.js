@@ -1,0 +1,1 @@
+import{t as e}from"./axios-DYCKl1pc.js";var t=t=>e.post({url:`/oa/resign-apply/create`,data:t}),n=t=>e.get({url:`/oa/resign-apply/page`,params:t}),r=t=>e.get({url:`/oa/resign-apply/get`,params:{id:t}}),i=t=>e.put({url:`/oa/resign-apply/update`,data:t}),a=(t,n)=>e.post({url:`/oa/resign-apply/submit`,data:{id:t,startUserSelectAssignees:n}});export{i as a,a as i,r as n,n as r,t};

@@ -1,0 +1,24 @@
+# 前端忽略项
+**/node_modules/
+**/dist/
+**/.env.local
+**/.env.*.local
+
+# 后端忽略项
+**/target/
+**/*.log
+**/logs/
+
+# IDE 忽略项
+.idea/
+.vscode/
+*.iml
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 如果你有不想上传的 doc 或 backup 也可以在这里排除
+# doc/
+# backup/
+打包/

@@ -1,0 +1,1 @@
+import{t as e}from"./axios-DYCKl1pc.js";var t={getBatch:async t=>await e.get({url:`/mes/wm/batch/get?id=`+t}),getBatchPage:async t=>await e.get({url:`/mes/wm/batch/page`,params:t}),getForwardList:async t=>await e.get({url:`/mes/wm/batch/forward-list`,params:{code:t}}),getBackwardList:async t=>await e.get({url:`/mes/wm/batch/backward-list`,params:{code:t}})};export{t};
